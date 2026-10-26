@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nocodya-hue.github.io/horno-abraham/sitemap.xml
